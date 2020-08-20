@@ -1,6 +1,6 @@
 # MCIF-Net
 This code is our submitting paper.
-# Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images
+'''# Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images
 
 > **Authors:** 
 > [Deng-Ping Fan](https://dpfan.net/), 
@@ -383,4 +383,4 @@ etc.)
    Note that, the our Dice score is the mean dice score rather than the max Dice score. You can use our evaluation tool box [Google Drive](https://drive.google.com/open?id=1BGUUmrRPOWPxdxnawFnG9TVZd8rwLqCF). 
    The training set of each compared model (e.g., U-Net, Attention-UNet, Gated-UNet, Dense-UNet, U-Net++, Inf-Net (ours)) is the 48 images rather than 48 image+1600 images.
 
-**[⬆ back to top](#0-preface)**
+**[⬆ back to top](#0-preface)**'''
